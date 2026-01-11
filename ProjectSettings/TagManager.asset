@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Background
+    uniqueID: 2974279061
+    locked: 0
+  - name: Collisions
+    uniqueID: 1819822989
+    locked: 0
+  - name: Player
+    uniqueID: 3101648193
+    locked: 0
+  - name: Foreground
+    uniqueID: 2982095741
+    locked: 0
