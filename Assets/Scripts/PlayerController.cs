@@ -26,7 +26,12 @@ public class PlayerController : MonoBehaviour
         {
             animator.SetFloat("moveX", rb.velocity.x);
             animator.SetFloat("moveY", rb.velocity.y);
+            animator.SetBool("moving", true);
             // with more animations refer to https://youtu.be/12AOiObT_zg?si=rXRWbN9jp4VS_h7b&t=3838
+        }
+        else
+        {
+            animator.SetBool("moving", false);
         }
     }
 
