@@ -43,7 +43,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -108,7 +108,322 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: NPC_touchme_grass_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 2377
+        width: 407
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e4022c1788da54482406ab1b40a2b2
+      internalID: -1144722674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_1
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 2377
+        width: 447
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cc1f674bc82f714eb27cb02845364c4
+      internalID: -2012066481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_2
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 2377
+        width: 406
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafd910ff7237d142940177ec6c6b7bc
+      internalID: -1049374582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_3
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 2377
+        width: 426
+        height: 466
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a0bb49d2d34f64ab153c5ab36fcb8d
+      internalID: -918507004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_4
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 2377
+        width: 407
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afab80dfcae42d243bb3e3bf3334425f
+      internalID: -13552894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_5
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1337
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b058a2d3e10c647bf6ff9944b7da07
+      internalID: -2047229595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_6
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1337
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8246e69beca88684290034d9dfdfe932
+      internalID: -1946198767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_7
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 1337
+        width: 406
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec6c753e796ade48b4b642a600fd65f
+      internalID: 906988948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_8
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 1337
+        width: 406
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f663978ec3fd1a419a7c5f8ccb984d3
+      internalID: -1421799230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_9
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 1337
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4edec4c31d88654fb5273c7a10bbf81
+      internalID: -854501011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_10
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 296
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a4fd22a2c04e84e8c2403acc20b395
+      internalID: -172316076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_11
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 296
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf550a3da1c2414e901efcc0315c88c
+      internalID: -759668358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_12
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 296
+        width: 406
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f39931691ce6dc14e8ad2c7afa571d8e
+      internalID: -2018904357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_13
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 296
+        width: 406
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c8beb98b70aa4ebe39c282eac5aba
+      internalID: 1698844010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NPC_touchme_grass_14
+      rect:
+        serializedVersion: 2
+        x: 4497
+        y: 296
+        width: 407
+        height: 487
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00513da03428a7249a033b3c6e05ca8e
+      internalID: -655434224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -119,7 +434,22 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      NPC_touchme_grass_0: -1144722674
+      NPC_touchme_grass_1: -2012066481
+      NPC_touchme_grass_10: -172316076
+      NPC_touchme_grass_11: -759668358
+      NPC_touchme_grass_12: -2018904357
+      NPC_touchme_grass_13: 1698844010
+      NPC_touchme_grass_14: -655434224
+      NPC_touchme_grass_2: -1049374582
+      NPC_touchme_grass_3: -918507004
+      NPC_touchme_grass_4: -13552894
+      NPC_touchme_grass_5: -2047229595
+      NPC_touchme_grass_6: -1946198767
+      NPC_touchme_grass_7: 906988948
+      NPC_touchme_grass_8: -1421799230
+      NPC_touchme_grass_9: -854501011
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
