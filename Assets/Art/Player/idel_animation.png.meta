@@ -113,12 +113,12 @@ TextureImporter:
       name: idel_animation_0
       rect:
         serializedVersion: 2
-        x: 78
-        y: 18
-        width: 144
-        height: 244
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 0
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -134,12 +134,12 @@ TextureImporter:
       name: idel_animation_1
       rect:
         serializedVersion: 2
-        x: 398
-        y: 18
-        width: 144
-        height: 224
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 320
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -155,12 +155,12 @@ TextureImporter:
       name: idel_animation_2
       rect:
         serializedVersion: 2
-        x: 718
-        y: 18
-        width: 144
-        height: 204
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 640
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -176,12 +176,12 @@ TextureImporter:
       name: idel_animation_3
       rect:
         serializedVersion: 2
-        x: 1038
-        y: 18
-        width: 144
-        height: 224
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 960
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -197,12 +197,12 @@ TextureImporter:
       name: idel_animation_4
       rect:
         serializedVersion: 2
-        x: 1358
-        y: 18
-        width: 144
-        height: 244
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1280
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -218,12 +218,12 @@ TextureImporter:
       name: idel_animation_5
       rect:
         serializedVersion: 2
-        x: 1678
-        y: 18
-        width: 144
-        height: 264
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1600
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -239,12 +239,12 @@ TextureImporter:
       name: idel_animation_6
       rect:
         serializedVersion: 2
-        x: 1998
-        y: 18
-        width: 144
-        height: 264
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 1920
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -260,12 +260,12 @@ TextureImporter:
       name: idel_animation_7
       rect:
         serializedVersion: 2
-        x: 2318
-        y: 18
-        width: 144
-        height: 264
-      alignment: 7
-      pivot: {x: 0.5, y: 0}
+        x: 2240
+        y: 0
+        width: 320
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
