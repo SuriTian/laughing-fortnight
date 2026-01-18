@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Goose
   layers:
   - Default
   - TransparentFX
@@ -46,6 +47,9 @@ TagManager:
     locked: 0
   - name: Collisions
     uniqueID: 1819822989
+    locked: 0
+  - name: npc
+    uniqueID: 3576806865
     locked: 0
   - name: Player
     uniqueID: 3101648193
